@@ -8,7 +8,7 @@ You can get a copy of the handout and skeleton for any of your projects here. Th
 
 Info on the EECS Wilkinson and T labs.
 
-To submit your projects use the following page: SUBMISSIONS.
+To submit your projects use the following page: [SUBMISSIONS](https://cs.northwestern.edu/~aqualab/assignments/OS/submission.htm).
 
 | PROJECT	| OUT	| IN | GRADE |
 | --- | --- | --- | --- |
