@@ -1,2 +1,2 @@
 # EECS343
-Operating Systems - Fall 2015 - Northwestern University
+Operating Systems - Fall 2014 - Northwestern University
