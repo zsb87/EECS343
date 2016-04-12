@@ -21,5 +21,5 @@
 | 11/25	| File Systems [[PDF](https://github.com/yuanhui-yang/EECS343/raw/master/Lecture/18-FSMgmt.pdf)]	| OSC 12; MOS 4.3-5 |
 | 11/27	| Thanksgiving | | 
 | 12/02	| Distributed Systems [[PDF](https://github.com/yuanhui-yang/EECS343/raw/master/Lecture/19-DistSystems.pdf)]	| OSC 17; MOS 8.4 |
-| 12/04	| Research in Operating Systems [[PDF](https://github.com/yuanhui-yang/EECS343/raw/master/Lecture/20-Research.pdf)]	| Ousterhout et al., 2013 |
+| 12/04	| Research in Operating Systems [[PDF](https://github.com/yuanhui-yang/EECS343/raw/master/Lecture/20-Research.pdf)]	| [Ousterhout et al., 2013]() |
 | 12/09	| Final (12-2PM) | - | 
