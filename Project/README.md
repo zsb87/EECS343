@@ -12,10 +12,10 @@ To submit your projects use the following page: SUBMISSIONS.
 
 | PROJECT	| OUT	| IN | GRADE |
 | --- | --- | --- | --- |
-| Project 1: Tiny Shell [shell.tar.gz] | 09/24 | 10/10 | TBD |
-| Project 2: Kernel Memory Allocator [kma.tar.gz] | 10/13 | 10/28 | TBD |
-| Project 3: Multi-threaded Server [server.tar.gz] | 11/03 | 11/17 | TBD |
-| Project 4: File System [ext2cat_skeleton.tar.gz] | 11/19 | 12/03 | TBD |
+| [Project 1: Tiny Shell](https://github.com/yuanhui-yang/EECS343/raw/master/Project/handout.pdf) [[shell.tar.gz](https://github.com/yuanhui-yang/EECS343/raw/master/Project/shell.tar.gz)] | 09/24 | 10/10 | TBD |
+| [Project 2: Kernel Memory Allocator](https://github.com/yuanhui-yang/EECS343/raw/master/Project/kma_handout.pdf) [[kma.tar.gz](https://github.com/yuanhui-yang/EECS343/raw/master/Project/kma.tar.gz)] | 10/13 | 10/28 | TBD |
+| [Project 3: Multi-threaded Server](https://github.com/yuanhui-yang/EECS343/raw/master/Project/threads_handout.pdf) [[server.tar.gz](https://github.com/yuanhui-yang/EECS343/raw/master/Project/server.tar.gz)] | 11/03 | 11/17 | TBD |
+| [Project 4: File System](https://github.com/yuanhui-yang/EECS343/raw/master/Project/fsproj.pdf) [[ext2cat_skeleton.tar.gz](https://github.com/yuanhui-yang/EECS343/raw/master/Project/ext2cat.tar.gz)] | 11/19 | 12/03 | TBD |
 
 ## Code Walkthrough
 
